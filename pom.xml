@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.ashokit</groupId>
-  <artifactId>Amazon-App</artifactId>
+  <artifactId>Amazon-Application</artifactId>
   <packaging>jar</packaging>
   <version>1.2-RELEASE</version>
   <name>Amazon-Application</name>
