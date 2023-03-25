@@ -5,7 +5,7 @@
   <artifactId>Amazon-App</artifactId>
   <packaging>jar</packaging>
   <version>1.2-RELEASE</version>
-  <name>Amazon-App</name>
+  <name>Amazon-Application</name>
   <url>http://maven.apache.org</url>
   <distributionManagement>  
 	
